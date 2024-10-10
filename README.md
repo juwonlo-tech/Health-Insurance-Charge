@@ -25,7 +25,7 @@ There was an instruction to handle any negative values by replacing them with th
 This led to the decision to set the predicted charges to the basic charge of 1000 if the charge is less than 1000. 
 ![image](https://github.com/user-attachments/assets/2e4d5c7e-ef6b-466c-a84a-7db3a70cb115)
 
-More information about the data and the resulting model can be found here: 
+More information about the data and the resulting model can be found here: https://github.com/juwonlo-tech/Health-Insurance-Charge/blob/main/Health_Insurance_Prediction.ipynb
 
 
 
